@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e629fe51f2f54646a816da2ec999a42, type: 3}
+  m_Name: MainShopData
+  m_EditorClassIdentifier: Assembly-CSharp::ShopData
+  baitList:
+  - {fileID: 11400000, guid: 74850c0d8e47820438bf0f408171fd79, type: 2}
+  - {fileID: 11400000, guid: a77d1c00d7acd9a488a97e90291e5d99, type: 2}
+  - {fileID: 11400000, guid: c4f7f4df33c61eb4ba4b2498c39e689b, type: 2}
+  - {fileID: 11400000, guid: 96e47642cb3020747a027f144364c091, type: 2}
+  - {fileID: 11400000, guid: 0c2a3e90538c24842aa2d47660ddf6ee, type: 2}
+  rodList:
+  - {fileID: 11400000, guid: 151e7a701e073ea4da662b9edfc65f3e, type: 2}
+  - {fileID: 11400000, guid: 35573e188a63be942a3727d172f84477, type: 2}
+  - {fileID: 11400000, guid: e0aafc32e2072cf44aa2471758d8a94d, type: 2}
+  - {fileID: 11400000, guid: cf30afaa764595643b410108ce2efdfb, type: 2}
+  - {fileID: 11400000, guid: efcad8f9c39c3f6498f4647055f75af1, type: 2}
+  bagUpgradePrices: c8000000f4010000ee020000
+  shopUpgradePrices: 2c0100005802000084030000b0040000

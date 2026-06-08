@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7819a2973cf5ef84bb62a1b26e4fde48, type: 3}
+  m_Name: "C\u1EA7n c\xE2u nh\u1EF1a"
+  m_EditorClassIdentifier: Assembly-CSharp::RodData
+  itemName: "C\u1EA6N C\xC2U B\u1EACC 2"
+  icon: {fileID: 21300000, guid: 479b8b488e305574fb63e107e3633d1b, type: 3}
+  itemType: 2
+  price: 50
+  description: "L\xE0m b\u1EB1ng nh\u1EF1a cao su"
+  requiredShopLevel: 2
+  modelPrefab: {fileID: 6803886984261707782, guid: ba225471dd50cba4f937375600dfa77f, type: 3}
+  rodLevel: 2
+  lureStat: 2
+  luckStat: 2
+  stabilityStat: 2
+  isBambooRod: 0
